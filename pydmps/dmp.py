@@ -177,7 +177,7 @@ class DMPs(object):
         return y_track, dy_track, ddy_track
 
     def reset_state(self):
-        """Reset the system state"""
+        """Reset the system state""" 
         self.y = self.y0.copy()
         self.dy = np.zeros(self.n_dmps)
         self.ddy = np.zeros(self.n_dmps)

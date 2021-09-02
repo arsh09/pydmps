@@ -6,3 +6,13 @@ Dynamic movement primitives (DMPs) are a method of trajectory control / planning
 This repository is a Python implementation of DMPs, with accompanying tutorials and applications that can be found at http://studywolf.wordpress.com/category/robotics/dynamic-movement-primitive/
 
 All that's required for the installation and running of the code is ```numpy```. To run the test code you will also need ```matplotlib``` for displaying the results.
+
+
+------------------------
+
+### Requirements 
+
+- numpy
+- matplotlib
+- promp (probably install it using setup.py script, or use example from root folder)
+

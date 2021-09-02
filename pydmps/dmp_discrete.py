@@ -80,7 +80,7 @@ class DMPs_discrete(DMPs):
 
     def gen_psi(self, x):
         """Generates the activity of the basis functions for a given
-        canonical system rollout.
+        canonical system rollout. 
 
         x float, array: the canonical system state or path
         """
